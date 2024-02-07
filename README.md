@@ -25,4 +25,7 @@
 
 <h3>Example load test report</h3>
 
+![image](https://github.com/ReNayeem/JMeter/assets/96969117/8bc856e7-e920-484f-95fa-71585e1f1c89)
+
+
 <h4>END</h4>
