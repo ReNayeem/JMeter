@@ -18,5 +18,7 @@
 <h3>stress test</h3>
 <h4>it means times are the same but users are gradually increasing until an error shows up</h4>
 
+![image](https://github.com/ReNayeem/JMeter/assets/96969117/994a456a-29e9-4bf5-8f42-66f93b3503aa)
+
 
 <h4>END</h4>
