@@ -15,6 +15,8 @@
 ![image](https://github.com/ReNayeem/JMeter/assets/96969117/278ba1f7-179c-44e3-b943-01d507dec09c)
 
 
+<h3>stress test</h3>
+<h4>it means times are the same but users are gradually increasing until an error shows up</h4>
 
 
 <h4>END</h4>
