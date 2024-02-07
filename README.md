@@ -20,5 +20,9 @@
 
 ![image](https://github.com/ReNayeem/JMeter/assets/96969117/994a456a-29e9-4bf5-8f42-66f93b3503aa)
 
+<h4>in this screenshot 11.66 is "lower bottleneck".</h4>
+
+
+<h3>Example load test report</h3>
 
 <h4>END</h4>
