@@ -1,0 +1,8 @@
+name,email,password,phone_number,nid,role
+jmeter user 1,ilOu1@test.com,1234,12312312312,123123123,Customer
+jmeter user 2,i10u2@test.com,1234,12312312313,123123123,Customer
+jmeter user 3,i10u3@test.com,1234,12312312314,123123123,Agent
+jmeter user 4,ilOu4@test.com,1234,12312312315,123123123,Agent
+jmeter user 5,ilOu5@test.com,1234,12312312316,123123123,Merchant
+jmeter user 6,ilOu6@test.com,1234,12312312317,123123123,Admin
+jmeter user 7,i10u7@test.com,1234,12312312318,123123123,Customer

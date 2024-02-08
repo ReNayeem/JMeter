@@ -4,6 +4,11 @@
 <h4>right click on thread group > add > sampler > http request</h4>
 <h4>right click on thread group > add > listener > view result tree</h4>
 <h4>right click on thread group > add > listener > summary report</h4>
+<h4>right click on thread group > add > listener > user defined variables (for saving pre-defined urls, keys etc.)</h4>
+<h4>right click on thread group > add > config element > http header manager (for adding content type for ex json)</h4>
+<h4>right click on http request (in screenshot it's name login) > add > post processors > json extractor (for saving the token)</h4>
+<h4>right click on thread group > add > config element > random variable (for creating random value)</h4>
+<h4>right click on http request (in screenshot it's name login) > add > assertions > json assertion (for matching intended result like postman test cases. important because if its not used jmeter will show test correct.)</h4>
 
 <h3>details</h3>
 <h4>std. dev. aka standard deviation means how many seconds would be ideal</h4>
@@ -26,6 +31,9 @@
 <h3>Example load test report</h3>
 
 ![image](https://github.com/ReNayeem/JMeter/assets/96969117/8bc856e7-e920-484f-95fa-71585e1f1c89)
+
+
+<h3>HTTP header manager setup</h3>
 
 
 <h4>END</h4>
