@@ -4,11 +4,13 @@
 <h4>right click on thread group > add > sampler > http request</h4>
 <h4>right click on thread group > add > listener > view result tree</h4>
 <h4>right click on thread group > add > listener > summary report</h4>
+<h4>right click on thread group > add > timer > constant timer (timer for per request)</h4>
 <h4>right click on thread group > add > listener > user defined variables (for saving pre-defined urls, keys etc.)</h4>
 <h4>right click on thread group > add > config element > http header manager (for adding content type for ex json)</h4>
 <h4>right click on http request (in screenshot it's name login) > add > post processors > json extractor (for saving the token)</h4>
 <h4>right click on thread group > add > config element > random variable (for creating random value)</h4>
 <h4>right click on http request (in screenshot it's name login) > add > assertions > json assertion (for matching intended result like postman test cases. important because if its not used jmeter will show test correct.)</h4>
+<h4>right click on http request > add > config element > csv data set config</h4>
 
 <h3>details</h3>
 <h4>std. dev. aka standard deviation means how many seconds would be ideal</h4>
@@ -34,6 +36,13 @@
 
 
 <h3>HTTP header manager setup</h3>
+
+
+
+<h3>Report generating</h3>
+
+<h4>open cmd in jmeter file location</h4>
+<h4>run "jmeter -n -t .\file-name.jmx -l .\file-name.jtl -e -o REST_API_REPORT" (file name must not have any spaces)</h4>
 
 
 <h4>END</h4>
